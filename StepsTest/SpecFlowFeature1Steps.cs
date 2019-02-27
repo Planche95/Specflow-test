@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using TechTalk.SpecFlow;
 
-namespace SpecflowTest.Steps
+namespace StepsTest
 {
     [Binding]
     public class SpecFlowFeature1Steps
